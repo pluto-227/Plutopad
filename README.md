@@ -8,6 +8,8 @@ Above is the schematic used to create the PCB.
 This is the PCB.
 <img width="1918" height="1078" alt="Screenshot 2026-06-12 003817" src="https://github.com/user-attachments/assets/f49cf6c0-ee4f-4bfd-9627-469d8da22760" />
 This is the final case by itself.
+
+
 [PlutoPad.csv](https://github.com/user-attachments/files/28865083/PlutoPad.csv)
 
 
